@@ -1,5 +1,5 @@
-# E-commerce_Site_Frontend
+# E-commerce Site Frontend
 
-This repository encompasses the frontend aspect of an e-commerce website built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It includes React components and associated files tailored to enhance user interaction and visual presentation. 
+This repository contains the frontend section of an e-commerce website constructed with the MERN stack (MongoDB, Express.js, React.js, Node.js). It comprises React components and related files aimed at improving user engagement and visual aesthetics.
 
-This frontend project endeavors to offer users an immersive and intuitive browsing experience, leveraging React.js for dynamic UI rendering and seamless interaction with the e-commerce platform.
+The frontend project is designed to provide users with an immersive and user-friendly browsing experience by utilizing React.js for dynamic UI rendering and smooth interaction with the e-commerce platform.
